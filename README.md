@@ -1,7 +1,7 @@
 
 Projeto do módulo: DDD: Modelagem Tática e Patterns
 
-RUN:
+Setup:
 npm install
 
 Run Tests:
