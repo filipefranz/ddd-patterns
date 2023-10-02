@@ -1,13 +1,16 @@
 
-Projeto do módulo - DDD: Modelagem Tática e Patterns
+DDD: Modelagem Tática e Patterns + Clean Architecture
 
-Projeto utilizados para prática dos principais conceitos de DDD:
+Projeto utilizado para prática dos principais conceitos de DDD: /
 Entidades, Value Objects, Agregados, Domain Services, 
 Repositories, Domain Events, Módulos e Factories.
 
-Setup:
+Projeto utilizado também para a prática de conceitos de Clean Architecture: /
+Camada de use case, API e Notification Pattern.
+
+Setup: /
 (necessário node 18.0 ou superior)
 npm install
 
-Run Tests:
+Run Tests: /
 npm test

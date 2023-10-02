@@ -3,7 +3,6 @@ import CustomerRepositoryInterface from "../../../../domain/customer/repository/
 import CustomerModel from "./customer.model";
 import Customer from "../../../../domain/customer/entity/customer";
 
-
 export default class CustomerRepository implements CustomerRepositoryInterface {
   async create(entity: Customer): Promise<void> {
     await CustomerModel.create({
